@@ -107,8 +107,13 @@ select {
 .question-grp input{
     width: 800px;
     height: 200px;
-    margin-bottom: 200px;
+    margin-bottom: 19px;
     border: none;
     border-radius: 4px;
     margin-top: 10px;
+}
+
+#submitbtn{
+  margin-left: 20px;
+  margin-bottom: 40px;
 }
